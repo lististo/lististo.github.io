@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lististo.github.io/sitemap.html.gz
+Sitemap: https://lististo.github.io/app/sitemap.html.gz
+Sitemap: https://lististo.github.io/assets/sitemap.html.gz
+Sitemap: https://lististo.github.io/css/sitemap.html.gz
+Sitemap: https://lististo.github.io/includes/sitemap.html.gz
+Sitemap: https://lististo.github.io/item/sitemap.html.gz
+Sitemap: https://lististo.github.io/src/sitemap.html.gz
